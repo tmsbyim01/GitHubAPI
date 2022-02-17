@@ -1,0 +1,7 @@
+<resources>
+    <string name="app_name">GitHubAPI</string>
+
+    <string name="text_username">username</string>
+    <string name="text_error_occurred">Oops! An Error Occurred</string>
+    <string name="text_no_result_found">Sorry! No Result Found :(</string>
+</resources>
