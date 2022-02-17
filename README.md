@@ -6,13 +6,4 @@ A new Android project.
 
 This project is a starting point for a Android application.
 
-<iframe 
-src="https://www.youtube.com/watch?v=lh9oEqHFA44" 
-scrolling="no" 
-border="0" 
-frameborder="no" 
-framespacing="0" 
-allowfullscreen="true" 
-height=600 
-width=800> 
-</iframe>
+[![Watch the video](https://i9.ytimg.com/vi/lh9oEqHFA44/mq2.jpg?sqp=COCpuZAG&rs=AOn4CLCl4aV6Lk4C0psRhZUp9lBU9vN7yA)](https://www.youtube.com/watch?v=lh9oEqHFA44)
