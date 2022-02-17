@@ -6,6 +6,13 @@ A new Android project.
 
 This project is a starting point for a Android application.
 
-<video width="720" height="303" controls>
-<source src="https://www.youtube.com/watch?v=lh9oEqHFA44" type="video/mp4">
-</video>
+<iframe 
+src="https://www.youtube.com/watch?v=lh9oEqHFA44" 
+scrolling="no" 
+border="0" 
+frameborder="no" 
+framespacing="0" 
+allowfullscreen="true" 
+height=600 
+width=800> 
+</iframe>
